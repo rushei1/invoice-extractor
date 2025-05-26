@@ -1,0 +1,8 @@
+streamlit>=1.30.0
+python-dotenv>=1.0.0
+google-generativeai>=0.3.2
+Pillow>=10.0.0
+pytesseract>=0.3.10
+PyMuPDF>=1.23.6
+pandas>=2.2.0
+
